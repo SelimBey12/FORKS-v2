@@ -1,0 +1,5 @@
+{
+  "name": "Forks Management System",
+  "description": "A modern file management and security application for managing user 'Forks' with integrated product key verification and local storage capabilities.",
+  "requestFramePermissions": []
+}
